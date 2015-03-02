@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME203: Materials and Materials Processing"
+course_description: "A detailed study of the materials with properties that have been optimized for a set of desired applications and their production. Explores atomic structure, crystalline materials, flaws and diffusion, mechanical properties, phase diagrams, specialty materials, and nanotechnology."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Processing of Materials – *How Can We Shape It?*** <span
 id="4"></span> 
 *A material may have the properties we wish, but we still have to shape

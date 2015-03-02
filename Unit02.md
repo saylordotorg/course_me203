@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME203: Materials and Materials Processing"
+course_description: "A detailed study of the materials with properties that have been optimized for a set of desired applications and their production. Explores atomic structure, crystalline materials, flaws and diffusion, mechanical properties, phase diagrams, specialty materials, and nanotechnology."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Classes of Engineering Materials – *What Do We Have?*** <span
 id="2"></span> 
 *The scientist distinguishes materials by the types of bonding between

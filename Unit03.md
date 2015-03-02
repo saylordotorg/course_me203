@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME203: Materials and Materials Processing"
+course_description: "A detailed study of the materials with properties that have been optimized for a set of desired applications and their production. Explores atomic structure, crystalline materials, flaws and diffusion, mechanical properties, phase diagrams, specialty materials, and nanotechnology."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Comparison of Engineering Materials – *Which Is Best?*** <span
 id="3"></span> 
 *This unit draws from the previous two units. How do we select a
