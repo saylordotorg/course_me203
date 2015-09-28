@@ -166,3 +166,4 @@ references.
 - [Unit 3](https://legacy.saylor.org/me203/Unit03/)
 - [Unit 4](https://legacy.saylor.org/me203/Unit04/)
 - [Unit 5](https://legacy.saylor.org/me203/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME203/ME203-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME203/ME203-FinalExam-Answers.html)
