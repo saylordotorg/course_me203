@@ -80,7 +80,7 @@ Upon successful completion of this unit, you will be able to:
 **1.1.1 Mechanical Stress** <span id="1.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “Mechanical Stress”**
     Link: The Saylor Foundation’s [“Mechanical
-    Stress”](http://www.saylor.org/site/wp-content/uploads/2012/11/ME203-1.1.1-Mechanical-Stress.pdf) (PDF)  
+    Stress”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ME203-1.1.1-Mechanical-Stress.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     mechanical stress.  
@@ -94,7 +94,7 @@ Upon successful completion of this unit, you will be able to:
 **1.1.2 Mechanical Strain** <span id="1.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Mechanical Strain”**
     Link: The Saylor Foundation’s [“Mechanical
-    Strain”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.1.2-Mechanical-Strain.pdf) (PDF)  
+    Strain”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.1.2-Mechanical-Strain.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     mechanical strain.
@@ -102,7 +102,7 @@ Upon successful completion of this unit, you will be able to:
 **1.1.3 Elastic Constants** <span id="1.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Elastic Constants”**
     Link: The Saylor Foundation’s [“Elastic
-    Constants”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.1.3-Elastic-Constants.pdf) (PDF)  
+    Constants”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.1.3-Elastic-Constants.pdf) (PDF)  
         
      Instructions: Please read this short article, which introduces
     elastic constants.
@@ -135,7 +135,7 @@ Upon successful completion of this unit, you will be able to:
 **1.2.1 Yield Strength** <span id="1.2.1"></span> 
 -   **Reading: The Saylor Foundation’s “Yield Strength”**
     Link: The Saylor Foundation’s [“Yield
-    Strength”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.2.1-Yield-Strength.pdf) (PDF)  
+    Strength”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.2.1-Yield-Strength.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     yield strength.
@@ -143,7 +143,7 @@ Upon successful completion of this unit, you will be able to:
 **1.2.2 Tensile Test** <span id="1.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Tensile Test”**
     Link: The Saylor Foundation’s [“Tensile
-    Test”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.2.2-Tensile-Test.pdf) (PDF)  
+    Test”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.2.2-Tensile-Test.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces the
     tensile test.
@@ -219,7 +219,7 @@ Upon successful completion of this unit, you will be able to:
 **1.2.3 Hardness** <span id="1.2.3"></span> 
 -   **Reading: The Saylor Foundation’s “Hardness”**
     Link: The Saylor
-    Foundation’s [“Hardness”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.2.3-Hardness.pdf) (PDF)  
+    Foundation’s [“Hardness”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.2.3-Hardness.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     hardness.
@@ -279,7 +279,7 @@ interpretations:*
 **1.3.2 Stress Intensity Factor** <span id="1.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Stress Intensity Factor”**
     Link: The Saylor Foundation’s [“Stress Intensity
-    Factor”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.3.2-Stress-Intensity-Factor.pdf) (PDF)  
+    Factor”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.3.2-Stress-Intensity-Factor.pdf) (PDF)  
         
      Instructions: Please read this short article, which introduces the
     stress intensity factor.
@@ -287,7 +287,7 @@ interpretations:*
 **1.3.3 Impact Test** <span id="1.3.3"></span> 
 -   **Reading: The Saylor Foundation’s “Impact Tests”**
     Link: The Saylor Foundation’s [“Impact
-    Tests”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.3.3-Impact-Test.pdf) (PDF)  
+    Tests”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.3.3-Impact-Test.pdf) (PDF)  
         
      Instructions: Please read this short article, which introduces the
     impact test.
@@ -320,7 +320,7 @@ interpretations:*
 **1.4.1 Fatigue Failure Mechanism** <span id="1.4.1"></span> 
 -   **Reading: The Saylor Foundation’s “Fatigue Failure Mechanism”**
     Link: The Saylor Foundation’s [“Fatigue Failure
-    Mechanism”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.4.1-Fatigue-Failure-Mechanism.pdf) (PDF)  
+    Mechanism”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.4.1-Fatigue-Failure-Mechanism.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     fatigue failure mechanisms.
@@ -358,7 +358,7 @@ point. There is typically considerable scatter in the results.*
 **1.5.1 Conditions for Creep** <span id="1.5.1"></span> 
 -   **Reading: The Saylor Foundation’s “Conditions for Creep”**
     Link: The Saylor Foundation’s [“Conditions for
-    Creep”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.5.1-Conditions-for-Creep.pdf) (PDF)  
+    Creep”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.5.1-Conditions-for-Creep.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces the
     conditions for creep.
@@ -367,7 +367,7 @@ point. There is typically considerable scatter in the results.*
 -   **Reading: The Saylor Foundation’s “Measurement and Prediction of
     Creep”**
     Link: The Saylor Foundation’s [“Measurement and Prediction of
-    Creep”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.5.2-Measurement-and-Prediction-of-Creep.pdf) (PDF)  
+    Creep”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.5.2-Measurement-and-Prediction-of-Creep.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces the
     measurement and prediction of creep.
@@ -404,7 +404,7 @@ point. There is typically considerable scatter in the results.*
 **1.6.1 Oxidation** <span id="1.6.1"></span> 
 -   **Reading: The Saylor Foundation’s “Oxidation”**
     Link: The Saylor
-    Foundation’s [“Oxidation”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.6.1-Oxidation.pdf) (PDF)  
+    Foundation’s [“Oxidation”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.6.1-Oxidation.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     oxidation.
@@ -412,7 +412,7 @@ point. There is typically considerable scatter in the results.*
 **1.6.2 Wet Corrosion** <span id="1.6.2"></span> 
 -   **Reading: The Saylor Foundation’s “Wet Corrosion”**
     Link: The Saylor Foundation’s [“Wet
-    Corrosion”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.6.2-Wet-Corrosion.pdf) (PDF)  
+    Corrosion”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.6.2-Wet-Corrosion.pdf) (PDF)  
       
      Instructions: Please read this article, which introduces wet
     corrosion.
@@ -451,7 +451,7 @@ point. There is typically considerable scatter in the results.*
 **1.7 Computational Exercises** <span id="1.7"></span> 
 -   **Activity: The Saylor Foundation’s “Computational Exercises”**
     Link: The Saylor Foundation’s [“Computational
-    Exercises”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-1.7-Computational-Exercises.pdf) (PDF)  
+    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-1.7-Computational-Exercises.pdf) (PDF)  
       
      Instructions: Please complete these computational exercises as a
     review of this unit.

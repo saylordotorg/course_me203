@@ -89,7 +89,7 @@ other metals in a less comprehensive way.*
 **2.1.1 Steels** <span id="2.1.1"></span> 
 -   **Reading: The Saylor Foundation’s “Steels”**
     Link: The Saylor
-    Foundation’s [“Steels”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-2.1.1-Steels.pdf) (PDF)  
+    Foundation’s [“Steels”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-2.1.1-Steels.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     steels.
@@ -97,7 +97,7 @@ other metals in a less comprehensive way.*
 **2.1.2 Aluminum and Its Alloys** <span id="2.1.2"></span> 
 -   **Reading: The Saylor Foundation’s “Aluminum and Its Alloys”**
     Link: The Saylor Foundation’s [“Aluminum and Its
-    Alloys”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-2.1.2-Aluminum-and-Its-Alloys.pdf) (PDF)  
+    Alloys”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-2.1.2-Aluminum-and-Its-Alloys.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     aluminum and its alloys.
@@ -105,7 +105,7 @@ other metals in a less comprehensive way.*
 **2.1.3 Some Other Metals** <span id="2.1.3"></span> 
 -   **Reading: The Saylor Foundation’s “Some Other Metals”**
     Link: The Saylor Foundation’s [“Some Other
-    Metals”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-2.1.3-Some-Other-Metals.pdf) (PDF)  
+    Metals”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-2.1.3-Some-Other-Metals.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     other metals.
@@ -130,7 +130,7 @@ applications. We will identify a few uses to establish familiarity.*
 -   **Reading: The Saylor Foundation’s “Engineering Polymers
     (Plastics)”**
     Link: The Saylor Foundation’s [“Engineering Polymers
-    (Plastics)”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-2.2.1-Engineering-Polymers-Plastics.pdf) (PDF)  
+    (Plastics)”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-2.2.1-Engineering-Polymers-Plastics.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     plastics.
@@ -170,7 +170,7 @@ crushing of cells, rather than by deformation of a solid material.*
 **2.3.1 Engineering Ceramics** <span id="2.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Engineering Ceramics”**
     Link: The Saylor Foundation’s [“Engineering
-    Ceramics”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-2.3.1-Engineering-Ceramics.pdf) (PDF)  
+    Ceramics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-2.3.1-Engineering-Ceramics.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     various engineering ceramics.
@@ -197,7 +197,7 @@ water (as with mortar and concrete).*
 **2.3.3 Glasses** <span id="2.3.3"></span> 
 -   **Reading: The Saylor Foundation’s “Glasses”**
     Link: The Saylor
-    Foundation’s [“Glasses”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME203-2.3.3-Glasses.pdf) (PDF)  
+    Foundation’s [“Glasses”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-2.3.3-Glasses.pdf) (PDF)  
       
      Instructions: Please read this short article, which introduces
     glasses.
