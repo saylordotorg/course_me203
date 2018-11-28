@@ -45,7 +45,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: The Saylor Foundation’s “Assessing Engineering
     Environments”**
     Link: The Saylor Foundation’s [“Assessing Engineering
-    Environments”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.1-Assessing-Engineering-Environments.pdf) (PDF)  
+    Environments”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.1-Assessing-Engineering-Environments.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses how
     to assess engineering environments.
@@ -53,7 +53,7 @@ Upon successful completion of this unit, you will be able to:
 **3.2 Density** <span id="3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Density”**
     Link: The Saylor
-    Foundation’s [“Density”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.2-Density.pdf) (PDF)  
+    Foundation’s [“Density”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.2-Density.pdf) (PDF)  
         
      Instructions: Please read this short article, which compares
     various materials.
@@ -62,7 +62,7 @@ Upon successful completion of this unit, you will be able to:
 **3.3.1 Comparison of Materials** <span id="3.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Comparison of Materials”**
     Link: The Saylor Foundation’s [“Comparison of
-    Materials”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.3.1-Comparison-of-Materials.pdf) (PDF)  
+    Materials”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.3.1-Comparison-of-Materials.pdf) (PDF)  
       
      Instructions: Please read this short article, which compares the
     elastic constant of various materials.
@@ -70,7 +70,7 @@ Upon successful completion of this unit, you will be able to:
 **3.3.2 Commentary** <span id="3.3.2"></span> 
 -   **Reading: The Saylor Foundation’s “Commentary”**
     Link: The Saylor
-    Foundation’s [“Commentary”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.3.2-Commentary.pdf) (PDF)  
+    Foundation’s [“Commentary”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.3.2-Commentary.pdf) (PDF)  
       
      Instructions: Please read this short article, which comments on the
     elastic stiffness of various materials.
@@ -105,7 +105,7 @@ Upon successful completion of this unit, you will be able to:
     for Elastic Deformation”**
     Link: The Saylor Foundation’s [“Example of Shape Consideration for
     Elastic
-    Deformation”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.3.4-An-Example-of-Shape-Consideration-for-Elastic-Deformation.pdf) (PDF)  
+    Deformation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.3.4-An-Example-of-Shape-Consideration-for-Elastic-Deformation.pdf) (PDF)  
       
      Instructions: Please read this article, which provides various case
     studies on shape consideration for elastic deformation.
@@ -114,7 +114,7 @@ Upon successful completion of this unit, you will be able to:
 **3.4.1 Comparison of Materials** <span id="3.4.1"></span> 
 -   **Reading: The Saylor Foundation’s “Comparison of Materials”**
     Link: The Saylor Foundation’s [“Comparison of
-    Materials”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.4.1-Comparison-of-Materials.pdf) (PDF)  
+    Materials”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.4.1-Comparison-of-Materials.pdf) (PDF)  
       
      Instructions: Please read this short article, which compares the
     yield stress of various materials.
@@ -122,7 +122,7 @@ Upon successful completion of this unit, you will be able to:
 **3.4.2 Commentary** <span id="3.4.2"></span> 
 -   **Reading: The Saylor Foundation’s “Commentary”**
     Link: The Saylor
-    Foundation’s [“Commentary”](https://resources.saylor.org/archived/wp-content/uploads/2012/11/ME203-3.4.2-Commentary.pdf) (PDF)  
+    Foundation’s [“Commentary”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/ME203-3.4.2-Commentary.pdf) (PDF)  
       
      Instructions: Please read this short article, which comments on the
     yield stress of various materials.
@@ -133,7 +133,7 @@ id="3.4.3"></span> 
     for Materials Selection”**
     Link: The Saylor Foundation’s [“An Example of Using Yield Stress for
     Materials
-    Selection”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.4.3-An-Example-of-Using-Yield-Stress-for-Materials-Selection.pdf) (PDF)  
+    Selection”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.4.3-An-Example-of-Using-Yield-Stress-for-Materials-Selection.pdf) (PDF)  
       
      Instructions: Please read this short article, which provides an
     example of using yield stress to select materials.
@@ -141,7 +141,7 @@ id="3.4.3"></span> 
 **3.5 Fast Fracture Toughness** <span id="3.5"></span> 
 -   **Reading: The Saylor Foundation’s “Fast Fracture Toughness”**
     Link: The Saylor Foundation’s [“Fast Fracture
-    Toughness”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.5-Fast-Fracture-Toughness.pdf) (PDF)  
+    Toughness”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.5-Fast-Fracture-Toughness.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses fast
     fracture toughness.
@@ -191,7 +191,7 @@ deformation of the surface.*
 **3.7 Creep Failure Resistance** <span id="3.7"></span> 
 -   **Reading: The Saylor Foundation’s “Creep Failure Resistance”**
     Link: The Saylor Foundation’s [“Creep Failure
-    Resistance”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.7-Creep-Failure-Resistance.pdf) (PDF)  
+    Resistance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.7-Creep-Failure-Resistance.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses creep
     failure resistance.
@@ -199,7 +199,7 @@ deformation of the surface.*
 **3.8 Corrosion Resistance** <span id="3.8"></span> 
 -   **Reading: The Saylor Foundation’s “Corrosion Resistance”**
     Link: The Saylor Foundation’s [“Corrosion
-    Resistance”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.8-Corrosion-Resistance.pdf) (PDF)  
+    Resistance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.8-Corrosion-Resistance.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses
     corrosion resistance.
@@ -207,7 +207,7 @@ deformation of the surface.*
 **3.9 Computational Exercises** <span id="3.9"></span> 
 -   **Activity: The Saylor Foundation’s “Computational Exercises”**
     Link: The Saylor Foundation’s [“Computational
-    Exercises”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-3.9-Computational-Exercises.pdf) (PDF)  
+    Exercises”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-3.9-Computational-Exercises.pdf) (PDF)  
       
      Instructions: Please complete these computational exercises as a
     review of this unit.

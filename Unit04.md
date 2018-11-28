@@ -49,7 +49,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: The Saylor Foundation’s “Casting”**
     Link: The Saylor
-    Foundation’s [“Casting”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-4.1-Casting.pdf) (PDF)  
+    Foundation’s [“Casting”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-4.1-Casting.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses
     hardening by solidification and chemical reaction.
@@ -88,7 +88,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: The Saylor Foundation’s “Mechanical Forming”**
     Link: The Saylor Foundation’s [“Mechanical
-    Forming”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-4.2-Mechanical-Forming.pdf) (PDF)  
+    Forming”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-4.2-Mechanical-Forming.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses cold
     working, annealing, and hot working.
@@ -151,7 +151,7 @@ Upon successful completion of this unit, you will be able to:
 
 -   **Reading: The Saylor Foundation’s “Sintering”**
     Link: The Saylor
-    Foundation’s [“Sintering”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-4.3-Sintering.pdf) (PDF)  
+    Foundation’s [“Sintering”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-4.3-Sintering.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses
     sintering.
@@ -173,7 +173,7 @@ Upon successful completion of this unit, you will be able to:
 **4.4.1 Welding** <span id="4.4.1"></span> 
 -   **Reading: The Saylor Foundation’s “Welding”**
     Link: The Saylor
-    Foundation’s [“Welding”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-4.4.1-Welding.pdf) (PDF)  
+    Foundation’s [“Welding”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-4.4.1-Welding.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses
     welding.
@@ -215,7 +215,7 @@ Upon successful completion of this unit, you will be able to:
 **4.4.2 Soldering and Brazing** <span id="4.4.2"></span> 
 -   **Reading: The Saylor Foundation’s “Soldering and Brazing”**
     Link: The Saylor Foundation’s [“Soldering and
-    Brazing”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME203-4.4.2-Soldering-and-Brazing.pdf) (PDF)  
+    Brazing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME203-4.4.2-Soldering-and-Brazing.pdf) (PDF)  
       
      Instructions: Please read this short article, which discusses
     soldering and brazing.
